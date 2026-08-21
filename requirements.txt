@@ -1,0 +1,11 @@
+# Direct dependencies (pinned).
+pandas==3.0.5
+numpy==2.5.1
+yfinance==1.5.2
+statsmodels==0.14.6
+requests==2.34.2
+
+# Reporting (Phase 5: chart + PDF render).
+matplotlib==3.11.1
+markdown==3.10.2
+xhtml2pdf==0.2.17

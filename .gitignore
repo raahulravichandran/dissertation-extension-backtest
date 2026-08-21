@@ -1,0 +1,26 @@
+# Vendor price data — not redistributed (licensing); rebuild via data_pipeline.py --refresh
+data/**/*.csv
+!data/boe_bank_rate.csv
+extension/**/*.csv
+
+# Private / prep material — never publish
+INTERVIEW_NOTES.*
+CLAUDE.md
+Claude_Code_Prompt*
+Viva*
+*Marker*
+Diss final*
+12451ES32033*
+logs/
+
+# Editor / AI-workflow config — never publish
+.cursor/
+
+# Environment & caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.log
