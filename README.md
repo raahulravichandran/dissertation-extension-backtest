@@ -74,7 +74,7 @@ The extension window cannot separate edge decay from regime; the in-sample selec
 
 ## Tooling
 
-Built with AI-assisted development (Claude Code) to accelerate the engineering; the methodology, strategy re-implementation, pre-registered validation, and every result review are my own.
+Built with AI-assisted development (Claude Code and Cursor) to accelerate the engineering; the methodology, strategy re-implementation, pre-registered validation, and every result review are my own.
 
 ---
 
