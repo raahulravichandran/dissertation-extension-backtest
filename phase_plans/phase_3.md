@@ -1,6 +1,6 @@
 # Phase 3 — Extend & Stress-test
 
-Plan agreed before build. Sits under the standing rules in `CLAUDE.md` and the overview in `Extension_Build_Plan.md`.
+Plan agreed before build. Sits under the standing rules and overview in `Extension_Build_Plan.md`.
 
 ## Goal
 Run the validated strategies on data since the dissertation ended, stress-test the headline result against parameter choices, and redo the Markov regime analysis without look-ahead.
