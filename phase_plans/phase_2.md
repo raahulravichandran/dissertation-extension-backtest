@@ -1,6 +1,6 @@
 # Phase 2 — Re-implement & Validate
 
-Plan agreed before build. Sits under the standing rules in `CLAUDE.md` and the overview in `Extension_Build_Plan.md`.
+Plan agreed before build. Sits under the standing rules and overview in `Extension_Build_Plan.md`.
 
 ## Goal
 Re-implement the 7 strategies independently from the dissertation's written methodology, backtest over the original window (2015-01-01 → 2025-08-31), and validate against the dissertation's reported figures within tolerance.
