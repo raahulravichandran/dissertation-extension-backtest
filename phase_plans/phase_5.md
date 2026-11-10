@@ -1,6 +1,6 @@
-# Phase 5 — Final Report (the deliverable)
+# Phase 5 – Final Report (the deliverable)
 
-Plan agreed before build. Sits under the standing rules in `CLAUDE.md` and the overview in `Extension_Build_Plan.md`. Final phase.
+Plan agreed before build. Sits under the standing rules and overview in `Extension_Build_Plan.md`. Final phase.
 
 ## Goal
 A concise, defensible, standalone write-up an interviewer could read or a pitch could
@@ -14,19 +14,18 @@ Phase 1–4 output.
   already exists in `reports/`.
 - **Decay-figure attribution (explicit):** the FF5 alpha decay 10.4%→1.9% is the
   ORIGINAL dissertation's sub-period finding and was NOT re-derived in this project.
-  This must be stated right next to the figures — no ambiguity that could read as an
+  This must be stated right next to the figures – no ambiguity that could read as an
   independent reproduction.
-- Distinct from `INTERVIEW_NOTES.md` (that is prep; this is the narrative deliverable).
 
 ## Structure (~2–3 pages, executive-summary-first)
 1. Executive summary (the story in ~5 sentences).
 2. What was built (system + reproducibility discipline, one paragraph).
 3. Original results, validated (key FTSE table; reproduced within tolerance a year on).
-4. Extension — persistence verdict, flagged directional / not-significant.
+4. Extension – persistence verdict, flagged directional / not-significant.
 5. Why performance changed (plain English; decay attributed to the original paper).
 6. Robustness & the look-ahead fix (parameter grids; walk-forward Markov improvement).
-7. Limitations — foregrounded, not buried: what decayed, why, what I'd test next.
-8. The live signal — one line: capability demo, not something I'd trade.
+7. Limitations – foregrounded, not buried: what decayed, why, what I'd test next.
+8. The live signal – one line: capability demo, not something I'd trade.
 9. Honest one-paragraph conclusion.
 
 ## Chart (one only)
