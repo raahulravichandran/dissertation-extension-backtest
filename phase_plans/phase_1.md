@@ -1,6 +1,6 @@
 # Phase 1 — Scaffold & Data Pipeline
 
-Plan agreed before build. Sits under the standing rules in `CLAUDE.md` and the overview in `Extension_Build_Plan.md`.
+Plan agreed before build. Sits under the standing rules and overview in `Extension_Build_Plan.md`.
 
 ## Goal
 A clean project skeleton plus a data pipeline that pulls the two price series, snapshots them to disk, and prints an honest data-quality summary. Deliverable is a reproducible, inspectable foundation — not analysis.
